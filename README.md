@@ -6,4 +6,5 @@
 1. python3
 2. from main import db
 3. db.create_all()
+
 В результе в папке app  сгенерируется файл базы apteka.db
