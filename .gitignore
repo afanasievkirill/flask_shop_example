@@ -1,0 +1,3 @@
+apteka.db
+# Project exclude paths
+/app/venv/
